@@ -1,0 +1,6 @@
+{
+  "name": "Cartela de Rifa Eletrônica (100 Nomes)",
+  "description": "App de rifa eletrônica com cartela de 100 nomes em tempo real, bloqueio imediato de nomes escolhidos, suporte a PIX e painel de sorteio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
